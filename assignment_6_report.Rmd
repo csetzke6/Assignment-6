@@ -21,7 +21,7 @@ toc-depth: 2
 header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
-- \fancyhead[LO,LE]{Chris Setzke}
+- \fancyhead[LO,LE]{Setzke}
 - \fancyhead[RO,RE]{Assignment 6}
 
 ---
